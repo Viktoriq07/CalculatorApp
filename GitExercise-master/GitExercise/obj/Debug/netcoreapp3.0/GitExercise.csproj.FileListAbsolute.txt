@@ -1,0 +1,14 @@
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.sourcelink.json
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\Darin\Desktop\calc\CalculatorApp\GitExercise-master\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
